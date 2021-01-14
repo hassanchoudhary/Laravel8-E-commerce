@@ -1,0 +1,8 @@
+{
+    "Frontend": true,
+    "Admin": true,
+    "Products": true,
+    "Categories": true,
+    "Cart": true,
+    "Checkout": true
+}
